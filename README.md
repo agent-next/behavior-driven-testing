@@ -5,12 +5,12 @@ A systematic testing methodology for exhaustive branch coverage, edge case ident
 ## Installation
 
 ```bash
-npx skills add robotlearning123/behavior-driven-testing
+npx skills add agent-next/behavior-driven-testing
 ```
 
 Or manually copy to your skills directory:
 ```bash
-git clone https://github.com/robotlearning123/behavior-driven-testing.git ~/.agents/skills/behavior-driven-testing
+git clone https://github.com/agent-next/behavior-driven-testing.git ~/.agents/skills/behavior-driven-testing
 ```
 
 ## When to Use
